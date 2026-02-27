@@ -1,0 +1,3 @@
+[carbon "git-carbon.md"]
+	sourceRepository = https://github.com/mullvad/git-carbon.git
+	sourcePath = README.md
