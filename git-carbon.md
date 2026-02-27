@@ -1,7 +1,5 @@
 # git-carbon: duplicate files between repositories
 
-_Oh no, This file is not up-to-date!_
-
 `git-carbon` is a tool that help manage duplicated files across reposistories.
 One can think of it like `git-submodule` but for individual files.
 
